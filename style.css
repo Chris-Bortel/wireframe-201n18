@@ -33,7 +33,17 @@ main img{
 }
 main ul li {
   float:left;
+  width:980;
+  height: 405px;
+  /* margin-right: 20px */
   /* height:375px; */
+}
+
+main ul li:nth-child(1) {
+  margin-right: 30px;
+}
+main ul li:nth-child(2) {
+  margin-right: 30px;
 }
 /* ul img {
   float:left;
