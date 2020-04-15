@@ -2,3 +2,46 @@
   outline: 1px dotted red;
   box-sizing: border-box;
 }
+
+body {
+  width: 960px;
+}
+
+nav {
+  margin-right: 30px;
+}
+
+nav img{
+  float: left;
+  margin-right: 30px;
+  margin-bottom: 30px
+}
+
+nav ul li {
+  float:left;
+  margin-right: 30px;
+  margin-top: 22px;
+  width:140px;
+  text-align: center;
+  font-size: 25px;
+
+}
+
+main ul li {
+  float:left;
+  height:375px;
+}
+/* ul img {
+  float:left;
+} */
+
+section {
+  height: 375px;
+}
+section img{
+  float:left;
+}
+
+article {
+  height: 375px;
+}
